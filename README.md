@@ -13,7 +13,7 @@ User-friendly interface: The system offers a simple and intuitive graphical inte
 
 # Requirements:
 
-Python 3.x: Make sure you have Python 3.x installed on your system.
+Python 3: Make sure you have Python 3.x installed on your system.
 OpenCV: Install OpenCV, a popular computer vision library, using pip install opencv-python.
 NumPy: NumPy is required for mathematical operations, install it with pip install numpy.
 Face_recognition: Install this library to perform face recognition tasks: pip install face_recognition.
